@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+segmentation-models-pytorch
+opencv-python-headless
+numpy
+pandas
+streamlit>=1.40
+pycocotools
