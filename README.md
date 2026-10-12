@@ -1,5 +1,8 @@
 # Solar Filament Instance Segmentation
 
+<img width="1917" height="1017" alt="Screenshot 2026-10-12 201456" src="https://github.com/user-attachments/assets/c69a15ee-9fe9-43fe-8faf-81f490f66afd" />
+
+
 Entry for the **Solar Filament Segmentation Challenge 2026** (Kaggle, IEEE BigData Cup).
 The model finds individual filaments in 2048×2048 GONG H-alpha images and outputs one run-length-encoded mask per filament.
 
